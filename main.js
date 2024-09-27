@@ -33,6 +33,9 @@ document.getElementById("form").addEventListener("submit", function (e) {
 });
 
 
-// Aysha
-// Azamjon
-// Abdullokh
+// ! Aysha
+// ? Azamjon
+// * Abdullokh
+
+//TODO 27.09.2024
+// 20:30
